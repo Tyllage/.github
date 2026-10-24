@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌱 Tyllage
+<img src="./tyllage-logo.png" alt="Tyllage logo" width="220" />
 
 ### From Harvest to Demand.
 
