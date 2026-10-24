@@ -6,9 +6,7 @@
 
 **Building practical AI-powered solutions for farm sales, demand intelligence, and commercial operations.**
 
-*Singapore-based AgriTech software venture · Tyllage LLP*
-
-**Website:** `tyllage.org` *(planned — not yet launched)*
+*Singapore-based AgriTech software venture*
 
 </div>
 
@@ -81,10 +79,9 @@ We welcome constructive technical discussions and collaboration opportunities in
 
 ## Connect
 
-- **LinkedIn:** [Tyllage LLP](https://www.linkedin.com/company/tyllage-llp)
-- **MEOD prototype:** [Tyllage — MEOD Farm](https://tyllage.github.io/Tyllage-MEOD-Vibecode/)
-- **Website:** `tyllage.org` *(planned; link will be added after launch)*
-- **Instagram:** Official profile link to be added
+- [LinkedIn](https://www.linkedin.com/company/tyllage-llp)
+- [Instagram](https://www.instagram.com/tyllage.llp?vrfl=dXVzMjdmOHhrMnh4)
+- [Email](mailto:tyllage.co@gmail.com)
 
 For partnership enquiries, please contact us through our official company channels once published.
 
