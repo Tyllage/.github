@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./tyllage-logo.png" alt="Tyllage logo" width="220" />
+<img src="./tyllage-logo.png" alt="Tyllage logo" width="100" />
 
 ### From Harvest to Demand.
 
