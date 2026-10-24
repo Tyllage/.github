@@ -4,9 +4,11 @@
 
 ### From Harvest to Demand.
 
-**Building practical digital solutions for farm sales, customer engagement, and commercial operations.**
+**Building practical AI-powered solutions for farm sales, demand intelligence, and commercial operations.**
 
-[Website](https://tyllage.com/)
+*Singapore-based AgriTech software venture · Tyllage LLP*
+
+**Website:** `tyllage.org` *(planned — not yet launched)*
 
 </div>
 
@@ -14,72 +16,77 @@
 
 ## About Tyllage
 
-**Tyllage** is a Singapore-based AgriTech initiative focused on helping farms manage the commercial side of their business more effectively.
+**Tyllage** is a Singapore-based AgriTech software venture focused on helping farms manage the commercial side of their business more effectively.
 
-We are developing a modular platform that connects farm products, inventory, customer enquiries, orders, sales channels, and operational insights. Our goal is to reduce repetitive administrative work, strengthen customer relationships, and help farms make better-informed sales decisions.
+We are developing a modular, **farm-first platform** that connects harvest availability, customer enquiries, pre-orders, sales channels, and operational insights. Our aim is to reduce repetitive administrative work, strengthen buyer relationships, identify sales opportunities, and help farms make better-informed decisions before produce becomes unsold inventory.
 
-Rather than replacing the systems farms already use, we aim to connect and improve existing workflows where there is a clear operational need.
+Rather than replacing existing farm systems, we aim to connect and improve workflows where there is a validated operational need.
 
 ## What We're Building
 
-Our work centres on three complementary capabilities:
-
-| Area | Focus |
+| **Area** | **Focus** |
 | --- | --- |
-| **Sales Operations** | Product and stock visibility, order management, group-buy workflows, and clear sales records. |
-| **Customer Engagement** | WhatsApp-assisted enquiries, multilingual support, targeted outreach, and human customer-service handover. |
-| **Commercial Intelligence** | Demand visibility, buyer matching, route comparison, margin checks, and recovery of at-risk produce. |
+| **Farm Sales Operations** | Product and inventory visibility, harvest batch records, pre-orders, order coordination, and group-buy workflows where relevant. |
+| **AI-Assisted Customer Engagement** | WhatsApp-assisted enquiries, multilingual communication, campaign drafting, buyer follow-ups, and human handover. |
+| **Demand & Commercial Intelligence** | Demand coverage, upcoming harvest gaps, campaign recommendations, buyer opportunities, route comparisons, margin checks, and at-risk harvest recovery. |
 
-AI may assist with communication, summarisation, and recommendations. **Inventory, pricing, permissions, and financial calculations remain governed by validated business rules and authorised users.**
+**AI supports recommendations and communication; it does not independently decide farm prices, promise inventory, or authorise outbound campaigns.** Validated business rules and authorised farm staff remain in control.
 
 ## Project Workstreams
 
 ### Tyllage — MEOD Farm
 
-**Focus: AI-assisted sales and customer operations**
+**Focus: AI-assisted farm sales and operational intelligence**
 
-Exploring how farms can reduce manual work across customer enquiries, stock checks, personalised marketing, repeat orders, and group-buy coordination. The intended approach builds on existing sales channels and includes controlled WhatsApp integration and escalation to human support.
+Exploring farm-facing workflows for harvest batch visibility, demand-to-harvest comparisons, pre-orders, sales campaign recommendations, WhatsApp customer engagement, and learning-journey enquiry coordination.
+
+[View the MEOD prototype](https://tyllage.github.io/Tyllage-MEOD-Vibecode/)
 
 ### Tyllage — ComCrop
 
 **Focus: market access and commercial route coordination**
 
-Exploring how farms can view upcoming harvest against demand, compare routes to market, identify suitable buyers, assess commercial viability, and respond when expected demand changes.
+Exploring how farms can compare commercial routes, identify potential buyers, assess harvest allocations and margins, and respond when expected demand changes.
 
-> **Project status:** These are farm-focused prototype and validation workstreams. References to MEOD Farm and ComCrop describe the intended project contexts and do not, by themselves, imply a confirmed commercial partnership, endorsement, or live integration.
+> **Project status:** These are prototype and validation workstreams. Mentioning a farm or project context does not imply a formal commercial partnership, endorsement, or completed production integration.
 
 ## Technology
 
-Our current preferred stack includes:
+Our preferred application stack and planned deployment direction include:
 
-- **Frontend:** React, Vite
+- **Frontend:** React, TypeScript, Vite
 - **Backend:** Node.js, Express
 - **Database:** PostgreSQL
-- **Deployment:** Railway and containerised workflows where appropriate
-- **Integrations under evaluation:** OpenAI API, WhatsApp Business Platform, existing e-commerce and farm systems
+- **Cloud direction:** Amazon Web Services (AWS), with architecture chosen according to project requirements and budget
+- **Integrations under evaluation:** OpenAI API, WhatsApp Business Platform, and approved existing farm/e-commerce systems
 
-The implementation may vary by project requirements. We prioritise reliability, secure access, maintainability, and measurable operational value over adding technology for its own sake.
+The public MEOD prototype is currently available through **GitHub Pages**. Planned AWS infrastructure should not be confused with an already-live production deployment.
+
+IoT and robotics are **outside our initial MVP scope**. Our first focus is practical software workflows using approved business information, manually entered harvest data, and responsible AI assistance. More advanced demand forecasting will require sufficient reliable data and validation.
 
 ## Our Principles
 
-- **Farm-first:** Understand actual workflows before designing features.
-- **Practical AI:** Use AI where it saves time; keep critical decisions verifiable.
-- **Human control:** Farms approve commercial decisions and customer-facing actions.
-- **Privacy by design:** Limit access to personal, financial, and business-sensitive information.
-- **Modular by design:** Share a common foundation while adapting workflows to each farm.
-- **Evidence over assumptions:** Test improvements against real feedback and agreed baselines.
+- **Farm-first:** Understand actual operational needs before designing solutions.
+- **Practical AI:** Use intelligence to support useful decisions, not to make unsupported predictions.
+- **Human control:** Farms approve pricing, promotions, inventory commitments, and customer-facing actions.
+- **Privacy by design:** Protect personal, financial, and commercially sensitive information.
+- **Modular by design:** Build a reusable foundation while adapting workflows to each farm.
+- **Evidence over assumptions:** Validate features through interviews, testing, and measurable outcomes.
 
 ## Collaboration
 
-We welcome constructive technical discussions and collaboration opportunities related to agricultural operations, software engineering, user experience, and responsible AI.
+We welcome constructive technical discussions and collaboration opportunities involving agriculture, software engineering, cloud technologies, user experience, and responsible AI.
 
-**For team contributors:** Please follow the repository-specific documentation, contribution guidelines, and access rules. Do not publish client data, credentials, confidential materials, or private project information.
+**For contributors:** Follow repository-specific contribution guidelines, pull-request rules, and access controls. Never publish customer records, credentials, client-confidential information, or other restricted materials.
 
 ## Connect
 
-🌐 **Website:** [tyllage.com](https://tyllage.com/)
+- **LinkedIn:** [Tyllage LLP](https://www.linkedin.com/company/tyllage-llp)
+- **MEOD prototype:** [Tyllage — MEOD Farm](https://tyllage.github.io/Tyllage-MEOD-Vibecode/)
+- **Website:** `tyllage.org` *(planned; link will be added after launch)*
+- **Instagram:** Official profile link to be added
 
-For enquiries, please use the contact channel published on our website.
+For partnership enquiries, please contact us through our official company channels once published.
 
 ---
 
@@ -87,6 +94,6 @@ For enquiries, please use the contact channel published on our website.
 
 **Tyllage · From Harvest to Demand.**
 
-*Built with a focus on practical value for Singapore farms.*
+*Building practical technology for smarter farm sales and commercial decisions.*
 
 </div>
