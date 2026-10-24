@@ -89,7 +89,7 @@ For partnership enquiries, please contact us through our official company channe
 
 <div align="center">
 
-**Tyllage · From Harvest to Demand.**
+**From Harvest to Demand.**
 
 *Building practical technology for smarter farm sales and commercial decisions.*
 
