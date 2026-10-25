@@ -80,7 +80,7 @@ We welcome constructive technical discussions and collaboration opportunities in
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/company/tyllage-llp)
-- [Instagram](https://www.instagram.com/tyllage.llp?vrfl=dXVzMjdmOHhrMnh4)
+- [Instagram](https://www.instagram.com/tyllage.llp)
 - [Email](mailto:tyllage.co@gmail.com)
 
 For partnership enquiries, please contact us through our official company channels once published.
