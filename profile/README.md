@@ -4,9 +4,9 @@
 
 ### From Harvest to Demand.
 
-**Building practical AI-powered solutions for farm sales, demand intelligence, and commercial operations.**
+**Practical software for farm sales, demand intelligence and commercial decisions.**
 
-*Singapore-based AgriTech software venture*
+*Tyllage LLP · Singapore-based AgriTech software company*
 
 </div>
 
@@ -14,62 +14,43 @@
 
 ## About Tyllage
 
-**Tyllage** is a Singapore-based AgriTech software venture focused on helping farms manage the commercial side of their business more effectively.
+**Tyllage** helps farms run the commercial side of their business with more clarity and less manual work.
 
-We are developing a modular, **farm-first platform** that connects harvest availability, customer enquiries, pre-orders, sales channels, and operational insights. Our aim is to reduce repetitive administrative work, strengthen buyer relationships, identify sales opportunities, and help farms make better-informed decisions before produce becomes unsold inventory.
+Farms already know how to grow. What often holds them back is everything after the harvest: knowing what buyers want, keeping track of enquiries and orders, choosing the right sales channels, and acting before produce goes unsold. Tyllage builds software that brings that information together in one place, so farm teams can see what is coming, who needs it and where it should go.
 
-Rather than replacing existing farm systems, we aim to connect and improve workflows where there is a validated operational need.
+We work alongside the systems and partners farms already use, and add value where there is a real, validated need.
 
-## What We're Building
+## What We Do
 
-| **Area** | **Focus** |
+| **Area** | **What it means for farms** |
 | --- | --- |
-| **Farm Sales Operations** | Product and inventory visibility, harvest batch records, pre-orders, order coordination, and group-buy workflows where relevant. |
-| **AI-Assisted Customer Engagement** | WhatsApp-assisted enquiries, multilingual communication, campaign drafting, buyer follow-ups, and human handover. |
-| **Demand & Commercial Intelligence** | Demand coverage, upcoming harvest gaps, campaign recommendations, buyer opportunities, route comparisons, margin checks, and at-risk harvest recovery. |
+| **Farm Sales Operations** | Clear visibility of products, harvest and orders, with simpler coordination of pre-orders and bulk sales. |
+| **Customer Engagement** | Faster, more consistent replies to buyer enquiries and follow-ups, with staff always able to step in. |
+| **Demand & Commercial Intelligence** | A view of upcoming demand against upcoming harvest, so farms can spot gaps, compare sales options, protect their margins and recover produce at risk. |
 
-**AI supports recommendations and communication; it does not independently decide farm prices, promise inventory, or authorise outbound campaigns.** Validated business rules and authorised farm staff remain in control.
-
-## Project Workstreams
-
-### Tyllage — MEOD Farm
-
-**Focus: AI-assisted farm sales and operational intelligence**
-
-Exploring farm-facing workflows for harvest batch visibility, demand-to-harvest comparisons, pre-orders, sales campaign recommendations, WhatsApp customer engagement, and learning-journey enquiry coordination.
-
-[View the MEOD prototype](https://tyllage.github.io/Tyllage-MEOD-Vibecode/)
-
-### Tyllage — ComCrop
-
-**Focus: market access and commercial route coordination**
-
-Exploring how farms can compare commercial routes, identify potential buyers, assess harvest allocations and margins, and respond when expected demand changes.
-
-> **Project status:** These are prototype and validation workstreams. Mentioning a farm or project context does not imply a formal commercial partnership, endorsement, or completed production integration.
-
-## Technology
-
-Our preferred application stack and planned deployment direction include:
-
-- **Frontend:** React, TypeScript, Vite
-- **Backend:** Node.js, Express
-- **Database:** PostgreSQL
-- **Cloud direction:** Amazon Web Services (AWS), with architecture chosen according to project requirements and budget
-- **Integrations under evaluation:** OpenAI API, WhatsApp Business Platform, and approved existing farm/e-commerce systems
-
-The public MEOD prototype is currently available through **GitHub Pages**. Planned AWS infrastructure should not be confused with an already-live production deployment.
-
-IoT and robotics are **outside our initial MVP scope**. Our first focus is practical software workflows using approved business information, manually entered harvest data, and responsible AI assistance. More advanced demand forecasting will require sufficient reliable data and validation.
+**AI assists; people decide.** Our software can suggest and draft, but it never sets prices, promises stock or contacts customers on its own. Farm teams stay in control.
 
 ## Our Principles
 
-- **Farm-first:** Understand actual operational needs before designing solutions.
-- **Practical AI:** Use intelligence to support useful decisions, not to make unsupported predictions.
-- **Human control:** Farms approve pricing, promotions, inventory commitments, and customer-facing actions.
-- **Privacy by design:** Protect personal, financial, and commercially sensitive information.
-- **Modular by design:** Build a reusable foundation while adapting workflows to each farm.
-- **Evidence over assumptions:** Validate features through interviews, testing, and measurable outcomes.
+- **Farm-first:** We start from how farms actually work, not from the technology.
+- **Practical AI:** Intelligence that supports real decisions, not unsupported predictions.
+- **Human control:** Farms approve pricing, promotions, inventory commitments and customer-facing actions.
+- **Privacy by design:** Personal, financial and commercially sensitive information is protected by default.
+- **Evidence over assumptions:** Features are validated through conversations, testing and measurable results.
+
+## Rights and Ownership
+
+All Tyllage software, designs, documentation and brand assets are **proprietary to Tyllage LLP. All rights reserved.**
+
+- Tyllage repositories are **not open source**, including any that are publicly visible. Being able to view or fork a repository on GitHub does not give permission to copy, use, run, modify, deploy or redistribute any part of it.
+- Tyllage does **not accept outside contributions**. Pull requests from outside the Tyllage team are closed without review.
+- The Tyllage name, logo and founders' names, likenesses and story may not be used without written permission.
+
+Each repository's `LICENSE` file sets out the full terms. For licensing or partnership requests, email us at the address below.
+
+## Security
+
+Found a security issue in a Tyllage product or repository? Please **do not** open a public issue. See our [security policy](https://github.com/Tyllage/.github/blob/main/SECURITY.md).
 
 ## Connect
 
@@ -77,14 +58,12 @@ IoT and robotics are **outside our initial MVP scope**. Our first focus is pract
 - [Instagram](https://www.instagram.com/tyllage.llp)
 - [Email](mailto:tyllage.co@gmail.com)
 
-For partnership enquiries, please contact us through our official company channels once published.
-
 ---
 
 <div align="center">
 
 **From Harvest to Demand.**
 
-*Building practical technology for smarter farm sales and commercial decisions.*
+<sub>© 2026 Tyllage LLP (UEN T26LL1129K), Singapore. All rights reserved.</sub>
 
 </div>

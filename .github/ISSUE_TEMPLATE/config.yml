@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/Tyllage/.github/blob/main/SECURITY.md
+    about: Report security problems privately. Do not open a public issue.
+  - name: Licensing and partnership enquiries
+    url: https://github.com/Tyllage/.github/blob/main/SUPPORT.md
+    about: Tyllage is proprietary software. Contact Tyllage LLP for permission to use it.
