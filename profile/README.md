@@ -71,12 +71,6 @@ IoT and robotics are **outside our initial MVP scope**. Our first focus is pract
 - **Modular by design:** Build a reusable foundation while adapting workflows to each farm.
 - **Evidence over assumptions:** Validate features through interviews, testing, and measurable outcomes.
 
-## Collaboration
-
-We welcome constructive technical discussions and collaboration opportunities involving agriculture, software engineering, cloud technologies, user experience, and responsible AI.
-
-**For contributors:** Follow repository-specific contribution guidelines, pull-request rules, and access controls. Never publish customer records, credentials, client-confidential information, or other restricted materials.
-
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/company/tyllage-llp)
